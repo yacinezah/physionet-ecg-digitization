@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data and model artifacts
+data/
+input/
+outputs/
+checkpoints/
+*.pth
+*.pt
+*.ckpt
+*.npz
+*.npy
+submission.csv
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
