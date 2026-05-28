@@ -1,0 +1,10 @@
+# Core packages used in the Kaggle notebooks
+numpy
+pandas
+scipy
+opencv-python
+matplotlib
+torch
+timm
+segmentation-models-pytorch==0.5.0
+connected-components-3d
